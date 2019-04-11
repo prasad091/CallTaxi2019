@@ -4,7 +4,7 @@ CallTaxi2019 (In-progress)
 
 <p float="left">
 <br>
-<img height="480" width="280" src="https://github.com/prasad091/CallTaxi2019/blob/master/app/src/main/assets/image_1.jpeg"/>&nbsp;&nbsp;
+<img height="480" width="280" src="https://github.com/prasad091/CallTaxi2019/blob/master/app/src/main/assets/image_1.jpeg"/>
 <img height="480" width="280" src="https://github.com/prasad091/CallTaxi2019/blob/master/app/src/main/assets/image_2.jpeg"/>
 <img height="480" width="280" src="https://github.com/prasad091/CallTaxi2019/blob/master/app/src/main/assets/image_3.jpeg"/>
 <br>
